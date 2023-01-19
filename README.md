@@ -96,7 +96,7 @@
 ```
     {
         "mobileNo": "9425152246",
-        "password": "rishabh@1111"
+        "password": "niraj@1111"
     }
 ```
 
